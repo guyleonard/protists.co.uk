@@ -2144,6 +2144,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon.ai:before {
+			font-family: 'Academicons';
+		}
+
 		.icon.circled {
 			position: relative;
 			display: inline-block;
